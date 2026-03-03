@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Trabajando en backend con FastAPI, SQL, MongoDB.
 
 
